@@ -23,17 +23,6 @@ A clean, fully responsive weather app built with **React + Vite** that shows rea
 - 📱 **Fully responsive** — optimized for mobile and desktop
 - ⚡ **Fast** — powered by Vite for instant hot reload
 
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Frontend | React 18 + Vite |
-| Styling | Plain CSS (custom, no framework) |
-| HTTP Client | Axios |
-| Weather Data | OpenWeatherMap API (free tier) |
-| Deployment | Vercel |
 
 ---
 
