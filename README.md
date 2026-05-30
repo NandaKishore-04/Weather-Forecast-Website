@@ -43,9 +43,15 @@ A clean, fully responsive weather app built with **React + Vite** that shows rea
 weather-app/
 │
 ├── public/
-│   └── vite.svg
+│   └── favicon.svg
+│   └── icons.svg
 │
 ├── src/
+│   ├── assets/
+│   │   ├── hero.png
+│   │   ├── react.svg
+│   │   ├── vite.svg
+│   │
 │   ├── components/
 │   │   ├── SearchBar.jsx        # City search + locate button
 │   │   ├── HeroWeather.jsx      # Main temperature display
